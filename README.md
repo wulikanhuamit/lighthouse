@@ -37,14 +37,15 @@ Clash for macOS 最新版本号: v1.17.1 - updated in 02.08.2020
 停止使用Shadowsocks, 下载全新客户端 Clash for Android, 链接 ↓ https://github.com/BackupSite/lighthouse/raw/master/Clash%20for%20Android/ClashforAndroid_v1.0.32.xapk
 
 对与某些手机型号, 系统可能无法直接安装.xapk安装包, 需要借助xapk安装器才可以正常使用, 链接 ↓ https://github.com/BackupSite/lighthouse/raw/master/Clash%20for%20Android/APKPure_v3.16.5.apk
+
 使用方法:
-![7a9a274034025fd49f976ad689bac2b6.jpg](https://i.jpg.dog/img/7a9a274034025fd49f976ad689bac2b6.jpg)
 
 第一步, 下载安装APKPure后, 点击右上角 "三" 进入软件安装界面 (你也可以在这里直接搜索 Clash for Android 并安装, 我们建议使用我们提供的版本)
 
+![7a9a274034025fd49f976ad689bac2b6.jpg](https://i.jpg.dog/img/7a9a274034025fd49f976ad689bac2b6.jpg)
+
+第二步, 此软件会自动检测已经下载的xapk安装包, 单击 Install 安装之前下载的 Clash for Android 安装包
+
 ![1cf912f3d2d058075bc5430ab42986e2.jpg](https://i.jpg.dog/img/1cf912f3d2d058075bc5430ab42986e2.jpg)
-
-第二部, 此软件会自动检测已经下载的xapk安装包, 单击 Install 安装之前下载的 Clash for Android 安装包
-
 
 安装 Clash for Android 完成后请遵照网站最新版教程操作配置clash (教程更新于02.10.2020)
