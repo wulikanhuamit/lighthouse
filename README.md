@@ -26,6 +26,10 @@ Clash for macOS 最新版本号: v1.17.1 - updated in 02.08.2020
 
 遵照网站最新版教程操作配置 (教程更新于02.11.2020)
 
+我们建议用户在配置Clash时全程使用手机移动数据流量 (联通最佳)
+
+分享 4G 热点教程如下: https://support.apple.com/zh-cn/HT204023 (iPhone)  https://consumer.huawei.com/cn/emui/tips/smartliving/article10/ (Huawei) 
+
 #### macOS 用户:
 
 下载 v1.17.1 客户端并安装, 链接 ↓ https://github.com/BackupSite/lighthouse/raw/master/Clash%20for%20macOS/ClashX_v1.17.1.dmg
