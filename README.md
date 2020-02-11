@@ -20,8 +20,9 @@ Clash for macOS 最新版本号: v1.17.1 - updated in 02.08.2020
 
 %HomePath%/.config
 
-复制上述链接至文件管理器链接栏即可
+复制上述链接至文件管理器链接栏即可跳转至对应文件夹
 ![d16211ac7b2a14c2a4a89731ef44a82b.jpg](https://i.jpg.dog/img/d16211ac7b2a14c2a4a89731ef44a82b.jpg)
+
 下载 v0.2.2 客户端并安装, 链接 ↓ https://github.com/BackupSite/lighthouse/raw/master/Clash%20for%20NetSpeeder/ClashforWindows-NetSpeeder_v0.2.2.exe
 
 遵照网站最新版教程操作配置 (教程更新于02.11.2020)
