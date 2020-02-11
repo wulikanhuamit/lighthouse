@@ -2,7 +2,7 @@
 
 最新网址: https://www.netspeeder02.xyz
 
-Clash for NetSpeeder 最新版本号: v0.2.1 - updated in 02.08.2020
+Clash for NetSpeeder 最新版本号: v0.2.2 - updated in 02.11.2020
 
 Clash for macOS 最新版本号: v1.17.1 - updated in 02.08.2020
 
@@ -10,7 +10,7 @@ Clash for macOS 最新版本号: v1.17.1 - updated in 02.08.2020
 ### 网站技术升级, 请用户按照下方指示升级 !
 
 #### Windows 用户:
-卸载旧版客户端 (低于v0.2.1均为旧版)
+卸载旧版客户端 (低于v0.2.1均为旧版, v0.2.1建议升级但不强制)
 
 删除下列三个文件夹
 
@@ -22,13 +22,9 @@ Clash for macOS 最新版本号: v1.17.1 - updated in 02.08.2020
 
 复制上述链接至文件管理器链接栏即可
 ![d16211ac7b2a14c2a4a89731ef44a82b.jpg](https://i.jpg.dog/img/d16211ac7b2a14c2a4a89731ef44a82b.jpg)
-下载 v0.2.1 客户端并安装, 链接 ↓ https://github.com/BackupSite/lighthouse/raw/master/Clash%20for%20NetSpeeder/ClashforWindows-NetSpeeder_v0.2.1.exe
+下载 v0.2.2 客户端并安装, 链接 ↓ https://github.com/BackupSite/lighthouse/raw/master/Clash%20for%20NetSpeeder/ClashforWindows-NetSpeeder_v0.2.2.exe
 
 遵照网站最新版教程操作配置 (教程更新于02.11.2020)
-
-我们建议用户在配置Clash时全程使用手机移动数据流量 (联通最佳)
-
-分享 4G 热点教程如下: https://support.apple.com/zh-cn/HT204023 (iPhone)  https://consumer.huawei.com/cn/emui/tips/smartliving/article10/ (Huawei) 
 
 #### macOS 用户:
 
