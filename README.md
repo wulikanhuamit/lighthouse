@@ -25,15 +25,18 @@ Clash for macOS 最新版本号: v1.17.1 - updated in 02.08.2020
 下载 v0.2.2 客户端并安装, 链接 ↓ https://github.com/BackupSite/lighthouse/raw/master/Clash%20for%20NetSpeeder/ClashforWindows-NetSpeeder_v0.2.2.exe
 
 遵照网站最新版教程操作配置 (教程更新于02.11.2020)
+#
 
 #### macOS 用户:
 
 下载 v1.17.1 客户端并安装, 链接 ↓ https://github.com/BackupSite/lighthouse/raw/master/Clash%20for%20macOS/ClashX_v1.17.1.dmg
 
 遵照网站最新版教程操作配置 (教程更新于02.09.2020)
+#
 
 #### iOS 用户
 删除原有节点, 并按照教程重新添加节点
+#
 
 #### Android 用户
 停止使用Shadowsocks, 下载全新客户端 Clash for Android, 链接 ↓ https://github.com/BackupSite/lighthouse/raw/master/Clash%20for%20Android/ClashforAndroid_v1.0.32.xapk
