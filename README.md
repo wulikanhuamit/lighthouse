@@ -40,7 +40,7 @@ Clash for macOS 最新版本号: v1.17.1 - updated in 02.08.2020
 
 第一步, 下载安装APKPure后, 点击右上角 "三" 进入软件安装界面 (你也可以在这里直接搜索 Clash for Android 并安装, 我们建议使用我们提供的版本)
 
-![eb765c49f11c01a018836a47be425e2d.jpg](https://i.jpg.dog/img/eb765c49f11c01a018836a47be425e2d.jpg)
+![d1da23bf2b2fb874e5b21f94bb474670.jpg](https://i.jpg.dog/img/d1da23bf2b2fb874e5b21f94bb474670.jpg)
 
 第二步, 此软件会自动检测已经下载的xapk安装包, 单击 Install 安装之前下载的 Clash for Android 安装包
 
