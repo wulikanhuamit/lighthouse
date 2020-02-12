@@ -45,6 +45,8 @@ Clash for macOS 最新版本号: v1.17.1 - updated in 02.08.2020
 
 安装 Clash for Android 完成后请遵照网站最新版教程操作配置clash (教程更新于02.12.2020)
 
-注意: 部分客户的手机机型不兼容Clash, 这类客户请下载并安装旧版客户端: https://github.com/BackupSite/lighthouse/tree/master/Android%20Legacy%20Client
+#### 注意:
+部分客户的手机机型不兼容Clash, 这类客户请下载并安装旧版客户端: https://github.com/BackupSite/lighthouse/tree/master/Android%20Legacy%20Client
 
 完成后请遵照网站最新版教程操作配置 (新旧客户端配置教程链接相同, 旧客户端教程在靠后位置)
+#
