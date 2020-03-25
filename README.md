@@ -1,7 +1,7 @@
 # NetSpeeder 最新网址, 公告和常见文件
 
 最新网址: https://www.netspeeder02.xyz
-管理员邮箱: netspeeder@icloud.com
+管理员邮箱: netspeeder@sendemail.monster
 
 Clash for NetSpeeder 最新版本号: v0.2.2 - updated in 02.11.2020
 
